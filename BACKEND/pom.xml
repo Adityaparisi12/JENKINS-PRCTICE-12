@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-	      <finalName>springbootcrudapi</finalName>
+	      <finalName>springbootcustomerapi12</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
